@@ -97,7 +97,7 @@ while your PC is connected it a notification will pop up you have to hit ALLOW
 
 now type "adb devices" in your terminal and it show come as an authorized device
 
-**FLASHING (NO TWRM or FastbootD just you and Odin4**
+**FLASHING (NO TWRP or FastbootD just you and Odin4**
 
 now all that is done, you need to keep the images (tar boxes) i just gave you in one folder with odin in there
 
@@ -134,6 +134,8 @@ and run "sudo ./odin4 -a super.tar"
 
 
 this one will take a while (or it's just cuz of my ancient artifact machine), tbh i had to pack it myself by extracting firmwares and injecting system because apparenty it's not 2016 anymore but worth the effort
+
+and gng right after is says success, jump to android recovey (volume up and power when the phone restarts) and select "format data" and then boot to the OS, it's necessary
 
 now you would log in to crDroid yaey! :D
 
