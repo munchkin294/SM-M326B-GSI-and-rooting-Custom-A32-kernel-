@@ -26,6 +26,10 @@ okeyy gng we gon install the CrDroid GSI with magisk and a custom A32 kernel on 
 
   Here are the super.tar (crDroid), boot.tar (A32 kernel and magisk),vbmeta.tar (normal one that works)
 
+  now also make sure in download mode your KG status (knox guard status) is in "Completed" and nothing like "Checking" or anything else. if so, DO NOT FLASH
+
+  just wait till it gets back to "Completed"
+
 **Vbmeta.tar**
 
  Here: https://drive.google.com/file/d/1zjIhYqbuTXcQZ1vcdBZcrml6Xuv7XOW3/view?usp=drive_link
@@ -141,6 +145,10 @@ now you would log in to crDroid yaey! :D
 
 
 Thanks for reading, i will post tut of "how to edit the super,boot and vbmeta yourself" later
+
+If you have any problems then maybe recheck your steps
+
+(I was cryin bout Odin abandoning me when my selinux copied super failed and threw me to recovey but actually the usb was unplugged)
 
 bye bye 
 
