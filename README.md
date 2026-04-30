@@ -34,7 +34,7 @@ okeyy gng we gon install the CrDroid GSI with magisk and a custom A32 kernel on 
   
   I got it patched from Magisk: https://topjohnwu.github.io/Magisk/
   
-  And I got the custom A32 kernel from: https://xdaforums.com/f/samsung-galaxy-a32-5g.12145/
+  And I got the custom A32 kernel from: https://xdaforums.com/t/custom-kernel-for-a32-5g-gsi.4773514/
 
 Here: https://drive.google.com/file/d/1ZR63xW8fw7XQyzGXTjLsMNxjhLSC_-Wg/view?usp=drive_link
 
