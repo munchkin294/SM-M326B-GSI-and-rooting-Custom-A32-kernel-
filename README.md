@@ -1,5 +1,5 @@
 # SM-M326B-GSI-and-rooting-Custom-A32-kernel-
-Samsung Galaxy M326B "CrDroid super.img", "A32 custom kernel &amp; Magisk boot.img" and a "Null vbmeta.img"
+Samsung Galaxy M326B "CrDroid super.img", "A32 custom kernel Magisk boot.img" and a "Null vbmeta.img"
 
 
 okeyy gng we gon install the CrDroid GSI with magisk and a custom A32 kernel on yo phone
